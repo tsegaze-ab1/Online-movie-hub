@@ -4,8 +4,8 @@ import { Movie } from '../store/useMovieStore';
 export const mockMovies: Movie[] = [
   {
     id: 1,
-    title: 'The Dark Knight',
-    overview: 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.',
+    title: 'Game of Thrones',
+    overview: 'Game of Thrones is a critically acclaimed American fantasy drama television series based on the A Song of Ice and Fire novels by George R.R. Martin. The story unfolds across the fictional continents of Westeros and Essos and follows multiple intertwined plotlines, chiefly the fierce struggle among noble families to claim the Iron Throne of the Seven Kingdoms. As political rivalries, betrayals, and shifting alliances erupt into all‑out war, an ancient threat beyond the Wall in the North looms that could bring devastation far greater than any human conflict. The series is known for its complex characters, epic battles, and unpredictable storytelling.',
     poster_path: '/qJ2tW6WMUDux911r6m7haRef0WH.jpg',
     backdrop_path: '/hqkIcbrOHL86UncnHIsHVcVmzue.jpg',
     release_date: '2008-07-18',
